@@ -108,10 +108,15 @@ Feedback Request (After 10 Days)
 
 Email-Marketing-Automation/
 │
+
 ├── README.md
+
 ├── Documentation.docx
+
 ├── Email_Templates.docx
+
 ├── Automation_Workflow.pdf
+
 ├── Screenshots/
 
 ---
