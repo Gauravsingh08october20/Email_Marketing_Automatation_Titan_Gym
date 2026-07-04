@@ -5,7 +5,7 @@
 ### Intern Details
 
 - *Name:* Gaurav Singh
-- *Intern ID:* [CITI2621]
+- *Intern ID:* [CITS2621]
 - *Domain:* Digital Marketing
 - *Task:* Email Marketing Automation
 - *Organization:* CODTECH IT Solutions
